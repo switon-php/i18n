@@ -1,0 +1,13 @@
+# Integration tests directory
+
+Integration tests are for testing multiple components working together or complete user scenarios.
+
+For I18n package, potential integration tests could include:
+- Locale and Translator working together in a complete translation workflow
+- Locale from request is handled by switon/http (LocaleFromRequestListener) when i18n is present
+- Complete multi-language application scenarios
+
+
+
+
+
